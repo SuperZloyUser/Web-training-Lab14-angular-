@@ -1,3 +1,3 @@
 # angular-nxwrwp
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-nxwrwp)
+Деплой данной работы: https://superzloyuser.github.io/Web-training-Lab14-angular-/
