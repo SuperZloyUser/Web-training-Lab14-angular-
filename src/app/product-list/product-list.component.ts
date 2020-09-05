@@ -16,7 +16,7 @@ export class ProductListComponent {
   )
   {}
 
-  products = ProductService.getProducts();
+  products = this.ProductService.getProducts();
 
   addToCart(product) {
     this.cartService.addToCart(product);
